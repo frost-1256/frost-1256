@@ -4,4 +4,4 @@
 [![Favorite Languages](https://skillicons.dev/icons?i=cs,ts,nix)](https://skillicons.dev)
 ## Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frost-1256)](https://github.com/frost-1256/github-readme-stats)  
-~~The reason why it is called frost-1256 / spring is because frost-1256 is the name I gave to myself in elementary school.~~
+~~The reason why it is called frost-1256 / spring is because frost-1256 is the name I gave to myself in elementary school lmao~~
